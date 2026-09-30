@@ -20,7 +20,7 @@ note の連載「#Project_Rachel 設計室」（https://note.com/nakamu）と対
 
 | ID | 名前 | 版 | 連載 |
 |---|---|---|---|
-| PR-RFC-001 | 芽の一周（「やってみたい」の扱い方） | 0.1.x preview | 第1回 https://note.com/nakamu/n/n5c4cc7b07270 |
+| PR-RFC-001 | 芽の一周（「やってみたい」の扱い方） | 0.1.2 preview | 第1回 https://note.com/nakamu/n/n5c4cc7b07270 |
 
 ## ライセンスと帰属
 
