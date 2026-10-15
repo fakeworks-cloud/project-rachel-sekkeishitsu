@@ -21,7 +21,7 @@ note の連載「#Project_Rachel 設計室」（https://note.com/nakamu）と対
 
 | ID | 名前 | 版 | 連載 |
 |---|---|---|---|
-| PR-RFC-001 | 芽の一周（「やってみたい」の扱い方） | 0.1.4 preview（試験 `seed_cycle_contract_test.py` 同梱） | 第1回 https://note.com/nakamu/n/n5c4cc7b07270 |
+| PR-RFC-001 | 芽の一周（「やってみたい」の扱い方） | 0.1.4 preview（試験 `seed_cycle_contract_test.py` 同梱） | 第1回 https://note.com/nakamu/n/n5c4cc7b07270 ／ 0.1.4 の回 https://note.com/nakamu/n/nb3f2e1fd7aac |
 
 ## ライセンスと帰属
 
