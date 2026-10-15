@@ -14,13 +14,14 @@ note の連載「#Project_Rachel 設計室」（https://note.com/nakamu）と対
 1. `specs/` の仕様ファイルを、あなたの使っているAI（Claude、ChatGPT、ローカルLLM など）に読ませる
 2. 仕様の最後にある「AIへの相談文」を、あなたの環境に合わせて埋めて渡す
 3. 記録の置き場（SQLite、Notion、Markdown…）などの選べるところは、AIと相談して決める
-4. 組み上がったら、仕様の「受入条件」をAIに一つずつ試させる
+4. 組み上がったら、`specs/seed_cycle_contract_test.py` をあなたの実装（置き場）に繋いで走らせ、出力をそのまま見る。走らせられない環境なら、仕様の「受入条件」をAIに一つずつ試させ、試した操作と出力をそのまま貼らせる
+   - 繋がずにそのまま走らせると、同梱の参照実装（合成データ）を相手に走ります。そこで通っても、あなたの実装の合格ではありません
 
 ## 仕様一覧
 
 | ID | 名前 | 版 | 連載 |
 |---|---|---|---|
-| PR-RFC-001 | 芽の一周（「やってみたい」の扱い方） | 0.1.2 preview | 第1回 https://note.com/nakamu/n/n5c4cc7b07270 |
+| PR-RFC-001 | 芽の一周（「やってみたい」の扱い方） | 0.1.4 preview（試験 `seed_cycle_contract_test.py` 同梱） | 第1回 https://note.com/nakamu/n/n5c4cc7b07270 |
 
 ## ライセンスと帰属
 
